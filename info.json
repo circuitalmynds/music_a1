@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1043.6006000000002,
+    "videos": [
         "(HD) JUAN CIREROL _ ERES TAN CRUEL  - AMPLIFICADO(MÉXICO)-C2DLMVlpnTc.mp4",
         "Parásitos-9MMqIvE7D2o.mp4",
         "Slow Dancing in a Burning Room-5MkfBNl_3pw.mp4",
@@ -103,7 +104,5 @@
         "Alice In Chains - Would (Official HD Video)-Nco_kh8xJDs.mp4",
         "Abre Tus Alas-eqlyYXXzzys.mp4",
         "Chuy Vega - Vago Solo En La Vida-gHSAhxTHXws.mp4"
-    ],
-    "id": "a1",
-    "total_size": 995.2547744140625
+    ]
 }
