@@ -417,11 +417,6 @@
             "size": 1.169772544
         },
         {
-            "name": "The Chemical Brothers - Get Yourself High.mp4",
-            "path": "music_a1/videos/The Chemical Brothers - Get Yourself High.mp4",
-            "size": 14.459963392
-        },
-        {
             "name": "Stray Cats - You Don't Believe Me-p5o6Qum2V_Y.mp4",
             "path": "music_a1/videos/Stray Cats - You Don't Believe Me-p5o6Qum2V_Y.mp4",
             "size": 14.353137664
@@ -512,6 +507,5 @@
             "size": 7.992753152000001
         }
     ],
-    "name": "music_a1",
-    "total_size": 1043.6002703359998
+    "total_size": 1029.1403069439998
 }
