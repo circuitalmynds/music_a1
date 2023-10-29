@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "qB-ZWa-XimQ",
@@ -184,25 +184,11 @@
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Laurita Garza - Pesado - Desde la Cantina Vol 2-jAv0gQ9gE1Y.mp4?raw=true"
         },
         {
-            "id": "Yam5uK6e-bQ",
-            "name": "The Cranberries - Dreams (Official Music Video)-Yam5uK6e-bQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a1/videos/The Cranberries - Dreams (Official Music Video)-Yam5uK6e-bQ.mp4",
-            "size": 12.221902,
-            "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/The Cranberries - Dreams (Official Music Video)-Yam5uK6e-bQ.mp4?raw=true"
-        },
-        {
             "id": "u1V8YRJnr4Q",
             "name": "Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)-u1V8YRJnr4Q.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a1/videos/Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)-u1V8YRJnr4Q.mp4",
             "size": 11.65593,
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)-u1V8YRJnr4Q.mp4?raw=true"
-        },
-        {
-            "id": "aLDaDwQX81Q",
-            "name": "Amor imposible - Pesado.wmv-aLDaDwQX81Q.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a1/videos/Amor imposible - Pesado.wmv-aLDaDwQX81Q.mp4",
-            "size": 3.0896079999999997,
-            "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Amor imposible - Pesado.wmv-aLDaDwQX81Q.mp4?raw=true"
         },
         {
             "id": "Vh2kSutFSos",
@@ -231,13 +217,6 @@
             "path": "/home/alanmatzumiya/Videos/container/a1/videos/Al Que Está Sentado En El Trono - Toma Tu Lugar (feat. Lucas Conslie) -  Marcos Brunet--fO6uxCSEUI.mp4",
             "size": 30.683995999999997,
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Al Que Está Sentado En El Trono - Toma Tu Lugar (feat. Lucas Conslie) -  Marcos Brunet--fO6uxCSEUI.mp4?raw=true"
-        },
-        {
-            "id": "lwzhK6WBadY",
-            "name": "AMOR GITANO .FRANÇOIS REYES  CANUT GIPSY KING-lwzhK6WBadY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a1/videos/AMOR GITANO .FRANÇOIS REYES  CANUT GIPSY KING-lwzhK6WBadY.mp4",
-            "size": 17.734636,
-            "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/AMOR GITANO .FRANÇOIS REYES  CANUT GIPSY KING-lwzhK6WBadY.mp4?raw=true"
         },
         {
             "id": "8rSCmzakZTk",
@@ -534,13 +513,6 @@
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Alice In Chains - Would (Official HD Video)-Nco_kh8xJDs.mp4?raw=true"
         },
         {
-            "id": "A5d1T2XDXg4",
-            "name": "Manu Chao - Helno Est Mort-A5d1T2XDXg4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a1/videos/Manu Chao - Helno Est Mort-A5d1T2XDXg4.mp4",
-            "size": 6.403950999999999,
-            "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Manu Chao - Helno Est Mort-A5d1T2XDXg4.mp4?raw=true"
-        },
-        {
             "id": "AgkaWVcPnf4",
             "name": "A JAKO PAKO- A votar-AgkaWVcPnf4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a1/videos/A JAKO PAKO- A votar-AgkaWVcPnf4.mp4",
@@ -653,13 +625,6 @@
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Alelu, Aleluya, Gloria al Señor-Py0m4Ppa2rw.mp4?raw=true"
         },
         {
-            "id": "Jrc7HIb5bbQ",
-            "name": "At the Drive-In - 'One-Armed Scissor' [Live]-Jrc7HIb5bbQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/a1/videos/At the Drive-In - 'One-Armed Scissor' [Live]-Jrc7HIb5bbQ.mp4",
-            "size": 20.902555,
-            "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/At the Drive-In - 'One-Armed Scissor' [Live]-Jrc7HIb5bbQ.mp4?raw=true"
-        },
-        {
             "id": "PFlGBgocZyw",
             "name": "Sinergia - Hágalo Bien [HD]-PFlGBgocZyw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a1/videos/Sinergia - Hágalo Bien [HD]-PFlGBgocZyw.mp4",
@@ -723,5 +688,5 @@
             "url": "https://github.com/circuitalmynds/music_a1/blob/main/videos/Los Crudos - We're that spic band Live - Show in pilsen-Wa8bcDq9kbQ.mp4?raw=true"
         }
     ],
-    "total_size": 1002.1353389999999
+    "total_size": 941.782687
 }
